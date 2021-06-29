@@ -7,6 +7,15 @@ html, body {
     width: 100%;
   }
 
+a {
+    text-decoration: none;
+    color: rgb(181, 159, 185);
+}
+
+a:hover {
+    color: white;
+}
+
 .header {
     display: flex;
     flex-direction: column;
