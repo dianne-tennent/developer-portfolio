@@ -142,13 +142,16 @@ html, body {
     font-size: 6vw;
 }
 
+.subheading {
+    margin: 0;
+}
+
 .description h3 {
     font-size: 10vw;
 }
 
 .header h1 {
     border: none;
-    margin-left: 20px;
 }
 
 .footer {
