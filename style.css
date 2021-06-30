@@ -112,7 +112,7 @@ background: white;
     font-size: 20px;
 }
     
-    .footer p {
+.footer p {
     display: inline;
     margin-right: 30px;
 }
@@ -152,10 +152,11 @@ html, body {
 
 .header h1 {
     border: none;
+    font-size: 25vw;
 }
 
 .footer {
-    text-align: left;
+    margin: 20px;
 }
 
 .smartphone {
