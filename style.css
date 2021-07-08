@@ -5,7 +5,12 @@ html, body {
     color: white;
     font-family: 'Work Sans', sans-serif;
     width: 100%;
-  }
+}
+
+.container {
+    width: 80vw;
+    margin: auto;
+}
 
 a {
     text-decoration: none;
@@ -25,7 +30,7 @@ a:hover {
 
 .header h1 {
     margin: 0;
-    color: rgb(202, 198, 198);
+    color: white;
     font-family: 'Dr Sugiyama', cursive;
     font-size: 100px;
     border-bottom: 2px solid whitesmoke;
@@ -65,10 +70,10 @@ a:hover {
 /* The device with borders */
 .smartphone {
 position: relative;
-width: 360px;
-height: 640px;
+width: 300px;
+height: 500px;
 margin: 10px;
-border: 16px rgb(181, 159, 185) solid;
+border: 16px rgb(208, 201, 209) solid;
 border-top-width: 60px;
 border-bottom-width: 60px;
 border-radius: 36px;
@@ -104,8 +109,8 @@ border-radius: 50%;
 
 /* The screen (or content) of the device */
 .smartphone .content {
-width: 360px;
-height: 640px;
+width: 300px;
+height: 500px;
 background: white;
 }
 
@@ -128,6 +133,11 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+.container {
+    width: 100vw;
+}
+
 .app-section {
     display: flex;
     flex-flow: column wrap;
@@ -168,6 +178,10 @@ h3 {
 .footer {
     margin: 20px;
     padding: 10px;
+}
+
+.footer p {
+    margin: 0;
 }
 
 .smartphone {
