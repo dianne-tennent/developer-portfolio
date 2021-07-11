@@ -71,7 +71,7 @@ a:hover {
 .smartphone {
 position: relative;
 width: 300px;
-height: 500px;
+height: 520px;
 margin: 10px;
 border: 16px rgb(208, 201, 209) solid;
 border-top-width: 60px;
@@ -110,7 +110,7 @@ border-radius: 50%;
 /* The screen (or content) of the device */
 .smartphone .content {
 width: 300px;
-height: 500px;
+height: 520px;
 background: white;
 }
 
