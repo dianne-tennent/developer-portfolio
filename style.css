@@ -70,7 +70,7 @@ a:hover {
 /* The device with borders */
 .smartphone {
 position: relative;
-width: 300px;
+width: 280px;
 height: 520px;
 margin: 10px;
 border: 16px rgb(208, 201, 209) solid;
@@ -109,7 +109,7 @@ border-radius: 50%;
 
 /* The screen (or content) of the device */
 .smartphone .content {
-width: 300px;
+width: 280px;
 height: 520px;
 background: white;
 }
